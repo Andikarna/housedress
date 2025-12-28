@@ -10,7 +10,7 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-dark flex flex-col font-sans text-slate-100 selection:bg-primary/30">
+      <div className="min-h-screen bg-light flex flex-col font-sans text-stone-900 selection:bg-primary/30">
         <Navbar />
         <main className="flex-grow">
           <Routes>

@@ -6,7 +6,7 @@ const Services = () => {
     {
       title: "Silk Morning Gown",
       price: "IDR 450.000",
-      image: "https://images.unsplash.com/photo-1596483569476-c564c7cc9e31?q=80&w=1000&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=1000&auto=format&fit=crop",
       tag: "Best Seller"
     },
     {
@@ -18,25 +18,25 @@ const Services = () => {
     {
       title: "Linen Lounge Set",
       price: "IDR 580.000",
-      image: "https://images.unsplash.com/photo-1620701560965-dc06354466b0?q=80&w=1000&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1589810635657-23294847e66d?q=80&w=1000&auto=format&fit=crop",
       tag: null
     },
     {
       title: "Satin Evening Robe",
       price: "IDR 650.000",
-      image: "https://plus.unsplash.com/premium_photo-1673356301535-212dc7187b99?q=80&w=1000&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1583391733958-e04847e09963?q=80&w=1000&auto=format&fit=crop",
       tag: "Premium"
     },
     {
       title: "Floral Summer Dress",
       price: "IDR 399.000",
-      image: "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1000&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1000&auto=format&fit=crop",
       tag: "Summer"
     },
     {
       title: "Classic White Tunic",
       price: "IDR 299.000",
-      image: "https://images.unsplash.com/photo-1583391733958-e04847e09963?q=80&w=1000&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?q=80&w=1000&auto=format&fit=crop",
       tag: null
     }
   ];
